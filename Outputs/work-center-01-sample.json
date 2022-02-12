@@ -1,0 +1,24 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-work-center-reads/SAP_API_Caller/caller.go#L54",
+	"function": "sap-api-integrations-work-center-reads/SAP_API_Caller.(*SAPAPICaller).WorkCenter",
+	"level": "INFO",
+	"message": {
+		"WorkCenterInternalID": "10000000",
+		"WorkCenterTypeCode": "A",
+		"WorkCenter": "ASSEMBLY",
+		"WorkCenter_desc": "",
+		"Plant": "1010",
+		"WorkCenterCategoryCode": "0001",
+		"WorkCenterResponsible": "001",
+		"SupplyArea": "",
+		"WorkCenterUsage": "009",
+		"MatlCompIsMarkedForBackflush": false,
+		"WorkCenterLocation": "",
+		"CapacityInternalID": "10000000",
+		"CapacityCategoryCode": "001",
+		"ValidityStartDate": "2016-06-24",
+		"ValidityEndDate": "9999-12-31",
+		"WorkCenterIsToBeDeleted": false
+	},
+	"time": "2022-01-28T12:59:40+09:00"
+}
